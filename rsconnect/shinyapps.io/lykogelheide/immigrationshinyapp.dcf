@@ -1,0 +1,10 @@
+name: immigrationshinyapp
+title:
+username: lykogelheide
+account: lykogelheide
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13755688
+bundleId: 9668974
+url: https://lykogelheide.shinyapps.io/immigrationshinyapp/
+version: 1
