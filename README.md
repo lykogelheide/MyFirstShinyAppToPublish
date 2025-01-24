@@ -1,3 +1,9 @@
+
+
+[![DOI](https://zenodo.org/badge/919104799.svg)](https://doi.org/10.5281/zenodo.14731505)
+
+
+
 # MyFirstShinyAppToPublish
 This is part of a course of my masters degree. Here I will host the code for a Shiny App to be published.
 
